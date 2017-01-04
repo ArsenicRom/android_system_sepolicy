@@ -7,7 +7,6 @@ android.security.keystore                 u:object_r:keystore_service:s0
 android.service.gatekeeper.IGateKeeperService    u:object_r:gatekeeper_service:s0
 appops                                    u:object_r:appops_service:s0
 appwidget                                 u:object_r:appwidget_service:s0
-arseniccfont                              u:object_r:arsenicfont_service:s0
 assetatlas                                u:object_r:assetatlas_service:s0
 audio                                     u:object_r:audio_service:s0
 autofill                                  u:object_r:autofill_service:s0
@@ -148,6 +147,8 @@ statusbar                                 u:object_r:statusbar_service:s0
 storaged                                  u:object_r:storaged_service:s0
 storaged_pri                              u:object_r:storaged_service:s0
 storagestats                              u:object_r:storagestats_service:s0
+dufont                                    u:object_r:dufont_service:s0
+substratum                                u:object_r:substratum_service:s0
 SurfaceFlinger                            u:object_r:surfaceflinger_service:s0
 task                                      u:object_r:task_service:s0
 telecom                                   u:object_r:telecom_service:s0
