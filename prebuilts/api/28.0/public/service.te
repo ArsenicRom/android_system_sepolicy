@@ -40,6 +40,7 @@ type activity_service, app_api_service, ephemeral_app_api_service, system_server
 type alarm_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
 type appops_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
 type appwidget_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
+type arsenicfont_service, app_api_service, system_server_service, service_manager_type;
 type assetatlas_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
 type audio_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
 type autofill_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
